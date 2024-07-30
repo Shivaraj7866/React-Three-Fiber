@@ -1,0 +1,23 @@
+html,
+body,
+#root{
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    background: ivory;
+}
+
+.label > div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: fixed;
+    background: #00000088;
+    padding: 15px;
+    white-space: nowrap;
+    color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    user-select: none;
+}

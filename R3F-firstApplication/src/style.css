@@ -1,0 +1,11 @@
+html,body,#root{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    padding: 0px;
+    overflow:hidden;
+    background: rgb(8, 246, 246);
+}
